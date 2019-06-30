@@ -20,17 +20,17 @@
  
  
  * [MICRO:BIT :](https://microbit.org/fr/)
-      Comme pour Scratch, il n'y a rien à préinstaller pour coder avec Micro:bit car cela se fait en ligne.
+      Comme pour Scratch, il n'y a rien à pré-installer pour coder avec Micro:bit car cela se fait en ligne.
       
       Malheureusement, il n'est pas possible de créer un compte sur le site. Les projets sont tout de même sauvegardés, mais       ils seront perdus si l'on efface les cookies du navigateur.
       
       Toujours comme Scratch, Micro:bit s'utilise avec un système de drag&drop de code simplifié (Make Code Editor), avec           cette version, il est possible de traduire ce code en Javascript.
       Micro:bit propose également un éditeur de code simplifié en Python (Python Editor).
       
+      Il est utilisé pour réaliser une multitude de projets : mini-jeux, montres interactives, jouets, robots, et projets           scientifiques grâce à des capteurs spéciaux (moisissure, température, ...) 
       
-      
-      Pour fonctionner sur le Micro:Bit, le projet réaliser doit être sauvegardé sur l'ordinateur à l'aide du bouton "télécharger", et le fichier .hex devra alors être placé sur le Micro:Bit.
-      Une fois que le Micro:Bit ne clignotte plus, alors c'est bon, le projet est bien enregistré sur celui-ci.
+      Pour fonctionner sur le Micro:Bit, le projet réaliser doit être sauvegardé sur l'ordinateur à l'aide du bouton               "télécharger", et le fichier .hex obtenu devra alors être déplacé sur le Micro:Bit.
+      Pendant le transfert, le Micro:bit va se mettre à clignotter, une fois qu'il ne clignotte plus, cela veut dire que           votre projet à bien été ajouté sur celui-ci.
       
       Voici un exercice à réaliser avec Micro:Bit : [Exercice Micro:Bit - CrashyBird](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-microbit.md)
       
