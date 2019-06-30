@@ -27,7 +27,7 @@
       Toujours comme Scratch, Micro:bit s'utilise avec un système de drag&drop de code simplifié (Make Code Editor), avec           cette version, il est possible de traduire le code en Javascript.
       Micro:bit propose également un éditeur de code simplifié en Python (Python Editor).
       
-      Il est utilisé pour réaliser une multitude de projets : mini-jeux, montres interactives, jouets, robots, et projets           scientifiques grâce à des capteurs spéciaux (moisissure, température, ...) 
+      Micro:bit est utilisé pour réaliser une multitude de projets : mini-jeux, montres interactives, jouets, robots, et           projets scientifiques grâce à des capteurs spéciaux (moisissure, température, ...) 
       
       Pour fonctionner sur le Micro:Bit, le projet réaliser doit être sauvegardé sur l'ordinateur à l'aide du bouton               "télécharger", et le fichier .hex obtenu devra alors être déplacé sur le Micro:Bit.
       Pendant le transfert, le Micro:bit va se mettre à clignotter, une fois qu'il ne clignotte plus, cela veut dire que           votre projet à bien été ajouté sur celui-ci.
