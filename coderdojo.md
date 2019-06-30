@@ -16,4 +16,4 @@ qui est un événement annuel exclusivement réserver aux filles.
 
 D'autres événements spéciaux sont aussi organisés, rendez-vous sur [Les événements spéciaux de CoderDojo](https://www.coderdojobelgium.be/fr/nieuws/speciale-dojos) pour en savoir plus.
 
-[Page suivante - Les technologies utilisées lors des Dojos](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
+### [Page suivante](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
