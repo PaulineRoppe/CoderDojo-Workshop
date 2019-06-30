@@ -24,7 +24,7 @@
       
       Malheureusement, il n'est pas possible de créer un compte sur le site. Les projets sont tout de même sauvegardés, mais       ils seront perdus si l'on efface les cookies du navigateur.
       
-      Toujours comme Scratch, Micro:bit s'utilise avec un système de drag&drop de code simplifié (Make Code Editor), avec           cette version, il est possible de traduire ce code en Javascript.
+      Toujours comme Scratch, Micro:bit s'utilise avec un système de drag&drop de code simplifié (Make Code Editor), avec           cette version, il est possible de traduire le code en Javascript.
       Micro:bit propose également un éditeur de code simplifié en Python (Python Editor).
       
       Il est utilisé pour réaliser une multitude de projets : mini-jeux, montres interactives, jouets, robots, et projets           scientifiques grâce à des capteurs spéciaux (moisissure, température, ...) 
