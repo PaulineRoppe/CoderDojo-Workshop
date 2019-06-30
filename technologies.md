@@ -7,7 +7,7 @@
 * [SCRATCH : ](https://scratch.mit.edu/)
     Pour utiliser Scratch, il n'y a rien à pré-installer, car il s'agit d'un siteweb.
     
-    Créer un compte sur Scratch n'est pas obligatoire pour pouvoir l'utiliser, mais conseillé si vous désirez enregistrer vos     projets.
+    Créer un compte sur Scratch n'est pas obligatoire pour pouvoir l'utiliser, mais cela reste conseillé si vous désirez         enregistrer vos projets.
     
     Pour apprendre Scratch aux enfants, c'est assez simple, soit on les laisse créer leur propre projet, 
     soit CoderDojo fourni une boîte éducative contenant des "cartes" qui permettent de réaliser un projet en particulier.
