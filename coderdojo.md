@@ -1,4 +1,4 @@
-![Logo CoderDojo](coderdojo-logo.png)
+![Logo CoderDojo](./images/coderdojo-logo.png)
 
 ## Apprends les bases de la programmation
 
