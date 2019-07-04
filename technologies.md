@@ -14,7 +14,7 @@
     
     Scratch permet donc de programmer histoires interactives, jeux, animations et autres facilement grâce à un système de         drag&drop de code simplifié.
     
-    Voici un exercice à réaliser avec Scratch : [Exercice Scratch - Jouer à Pong](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-scratch.mdhttps://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-scratch.md)
+    Voici un exercice à réaliser avec Scratch : [Exercice Scratch - Jouer à Pong](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-scratch.md)
     (Cet exercice a été choisi, car il est l'un des plus prisé par les enfants lors des Dojos)
     
  
