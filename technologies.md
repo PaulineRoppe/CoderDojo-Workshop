@@ -35,10 +35,11 @@
       Voici un exercice à réaliser avec Micro:Bit : [Exercice Micro:Bit - CrashyBird](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-microbit.md)
       
       
- * PYTHON : 
+ * [PYTHON : ](https://www.python.org/download/releases/3.0/)
       Pour coder avec Python, c'est un peu différent car il s'agit d'un langage qui n'est pas destiné aux enfants.
       Mais il existe tout de même une version simplifiée et plus facile d'utilisation pour eux, c'est Turtle.
       Turtle est une interface qu'on importe qui permet notament de voir l'aperçu du code en direct.
       Pour les exercices CoderDojo,la version de Python utilisée est Python 3.
+      
       Voici l'exercice à réaliser avec Python : [Exercice Python - Dessiner des formes](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-python.md)
       
