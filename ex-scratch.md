@@ -3,3 +3,5 @@
 ## Apprends les bases de la programmation
 
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
+
+<img src="./images/0.jpg" width="400"> <img src="./images/1.jpg" width="400">
