@@ -2,6 +2,8 @@
 
 ## Apprends les bases de la programmation
 
+### Exercice Scratch - Jouer à Pong
+
 (Si vous ne voyez pas le code, vous pouvez cliquer sur l'image et zommer)
 
 <img src="./images/0.jpg" width="430"> <img src="./images/1.jpg" width="430">
