@@ -2,7 +2,7 @@
 
 ## Apprends les bases de la programmation
 
-### Exercice Scratch - Jouer à Pong
+### Exercice Micro:bit - CrashyBird
 
 <-- Contenu explicatif -->
 
