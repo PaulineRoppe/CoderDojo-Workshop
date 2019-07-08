@@ -1,3 +1,8 @@
+![Logo CoderDojo](./images/coderdojo-logo.png)
+
+## Apprends les bases de la programmation
+
+### Solution Python - Course de tortues
 
 <pre><code>from turtle import *
 from random import randint
