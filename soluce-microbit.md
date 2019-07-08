@@ -8,9 +8,9 @@
 ![Screen du code des boutons A & B](./images/microbit/code-ab.png)
 
 ### Code "toujours":
-![Screen du code des boutons A & B](./images/microbit/code-ab.png)
+![Screen du code "toujours"](./images/microbit/code-toujours.png)
 
 ### Code "au démarrage":
-![Screen du code des boutons A & B](./images/microbit/code-ab.png)
+![Screen du code "au démarrage"](./images/microbit/code-audémarrage.png)
 
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
