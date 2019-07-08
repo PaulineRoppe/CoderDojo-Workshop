@@ -1,6 +1,6 @@
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
 
-from turtle import *
+`from turtle import *
 from random import randint
 
 for step in range(15):
@@ -66,4 +66,4 @@ for turn in range(100):
     patrick.forward(randint(1,5))
     carlo.forward(randint(1,5))
     crab.forward(randint(1,5))
-    gary.forward(randint(1,5))
+    gary.forward(randint(1,5))`
