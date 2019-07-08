@@ -73,4 +73,4 @@ for turn in range(100):
     gary.forward(randint(1,5))
     </code></pre>
     
-    ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
+ ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
