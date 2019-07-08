@@ -14,7 +14,7 @@
     
     Scratch permet donc de programmer histoires interactives, jeux, animations et autres facilement grâce à un système de         drag&drop de code simplifié.
     
-    Voici un exercice à réaliser avec Scratch : [Exercice Scratch - Jouer à Pong](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-scratch.mdhttps://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-scratch.md)
+    Voici un exercice à réaliser avec Scratch : [Exercice Scratch - Jouer à Pong](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-scratch.md)
     (Cet exercice a été choisi, car il est l'un des plus prisé par les enfants lors des Dojos)
     
  
@@ -35,5 +35,11 @@
       Voici un exercice à réaliser avec Micro:Bit : [Exercice Micro:Bit - CrashyBird](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-microbit.md)
       
       
- * PYTHON : 
-      Pour coder avec Python, c'est un peu différent car, ...
+ * [PYTHON : ](https://www.python.org/download/releases/3.0/)
+      Pour coder avec Python, c'est un peu différent car il s'agit d'un langage qui n'est pas destiné aux enfants.
+      Mais il existe tout de même une version simplifiée et plus facile d'utilisation pour eux, c'est Turtle.
+      Turtle est une interface qu'on importe qui permet notament de voir l'aperçu du code en direct.
+      Pour les exercices CoderDojo,la version de Python utilisée est Python 3.
+      
+      Voici l'exercice à réaliser avec Python : [Exercice Python - Dessiner des formes](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-python.md)
+      
