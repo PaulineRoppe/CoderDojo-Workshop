@@ -2,7 +2,7 @@
 
 ## Apprends les bases de la programmation
 
-###  Exercice Python - Dessiner des formes
+###  Exercice Python - Course de tortues
 
 <-- Contenu explicatif -->
 
