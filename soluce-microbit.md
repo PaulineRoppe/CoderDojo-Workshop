@@ -4,8 +4,8 @@
 
 ### Solution Micro:bit - CrashyBird
 
-### Title:
-![Screen des sprites](./images/microbit/.png)
+### Code boutons A & B :
+![Screen du code des boutons A & B](./images/microbit/code-ab.png)
 
 ### Title :
 ![Screen du code de 'ball'](./images/microbit/.png)
