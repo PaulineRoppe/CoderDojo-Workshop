@@ -1,4 +1,8 @@
-# Solution de l'exercie Sratch : Pong
+![Logo CoderDojo](./images/coderdojo-logo.png)
+
+## Apprends les bases de la programmation
+
+### Solution Scratch - Pong
 
 ### Les sprites :
 ![Screen des sprites](./images/scratch/sprites.png)
