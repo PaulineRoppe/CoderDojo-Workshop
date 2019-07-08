@@ -11,6 +11,6 @@
 ![Screen du code "toujours"](./images/microbit/code-toujours.png)
 
 ### Code "au démarrage":
-![Screen du code "au démarrage"](./images/microbit/code-audémarrage.png)
+![Screen du code "au démarrage"](./images/microbit/code-audemarrage.png)
 
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
