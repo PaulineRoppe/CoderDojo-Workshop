@@ -41,5 +41,5 @@
       Turtle est une interface qu'on importe qui permet notament de voir l'aperçu du code en direct.
       Pour les exercices CoderDojo,la version de Python utilisée est Python 3.
       
-      Voici l'exercice à réaliser avec Python : [Exercice Python - Dessiner des formes](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-python.md)
+      Voici l'exercice à réaliser avec Python : [Exercice Python - Course de tortues](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/ex-python.md)
       
