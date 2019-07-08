@@ -1,4 +1,3 @@
-### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
 
 <pre><code>from turtle import *
 from random import randint
@@ -67,3 +66,5 @@ for turn in range(100):
     carlo.forward(randint(1,5))
     crab.forward(randint(1,5))
     gary.forward(randint(1,5))`</code></pre>
+    
+    ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
