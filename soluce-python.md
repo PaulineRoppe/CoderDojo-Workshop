@@ -65,6 +65,7 @@ for turn in range(100):
     patrick.forward(randint(1,5))
     carlo.forward(randint(1,5))
     crab.forward(randint(1,5))
-    gary.forward(randint(1,5))`</code></pre>
+    gary.forward(randint(1,5))
+    </code></pre>
     
     ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
