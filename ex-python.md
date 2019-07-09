@@ -4,14 +4,19 @@
 
 ###  Exercice Python - Course de tortues
 
+Python & Turtle, La course de tortues :
 
-<pre><code># vous importez turtle de python
-from turtle import *
+1.Importe Turtle dans Python
 
-# ceci c'est pour que la course soit aléatoire
-from random import randint
+<pre><code>from turtle import *</code></pre>
 
-# ceci est une boucle pour créer la piste pour la course
+2.Importe le module qui gère l'aléatoire
+
+<pre><code>from random import randint</code></pre>
+
+3.Voici la boucle qui sert à créer la piste de course des tortues (faire un copier-coller)
+
+<pre><code>
 for step in range(15):
     write(step, align = 'center')
     pendown()
@@ -21,66 +26,36 @@ for step in range(15):
     backward(150)
     left(90)
     forward(20)
+</code></pre>
 
-# ici c'est pour replacer la flèche à 0 et le hideturtle() c'est pour enlever la flèche
+4.Fais ceci pour replacer la flèche à 0 et pour la cacher.
+
+<pre><code>
 penup()
 goto(0,0)
 pendown()
 hideturtle()
-
-# ici vous allez créer vos 5 variables
-bob = Turtle()
-bob.color('yellow')
-bob.shape('turtle')
-bob.penup()
-bob.goto(-20,-10) # c'est pour positionnée votre tortue
-bob.pendown()
-
-patrick = Turtle()
-patrick.color('pink')
-patrick.shape('turtle')
-patrick.penup()
-patrick.goto(-20,-40)# c'est pour positionnée votre tortue
-patrick.pendown()
-
-carlo = Turtle()
-carlo.color('lightblue')
-carlo.shape('turtle')
-carlo.penup()
-
-carlo.goto(-20,-70)# c'est pour positionnée votre tortue
-carlo.pendown()
-
-crab = Turtle()
-crab.color('red')
-crab.shape('turtle')
-crab.penup()
-crab.goto(-20,-100)# c'est pour positionnée votre tortue
-crab.pendown()
-
-gary = Turtle()
-gary.color('lightgreen')
-gary.shape('turtle')
-gary.penup()
-gary.goto(-20,-130)# c'est pour positionnée votre tortue
-gary.pendown()
-
-# cette boucle c'est pour faire tourner vos tortues chacune leur tour à 360°
-for turn in range(2):
-    bob.right(360)
-    patrick.left(360)
-    carlo.right(360)
-    crab.left(360)
-    gary.right(360)
-
-# la dernière boucle est pour commencer la course des tortues et le randint c'est ce que vous avez importé au début ce qui permet de faire une course aléatoire
-for turn in range(100):
-    bob.forward(randint(1,5))
-    patrick.forward(randint(1,5))
-    carlo.forward(randint(1,5))
-    crab.forward(randint(1,5))
-    gary.forward(randint(1,5))
 </code></pre>
+
+5.Crées une variable (ceci correspond à une tortue)
+  Crées 5 tortues avec des noms différents.
+  
+<pre><code>  
+bob = Turtle()
+bob.penup()
+bob.goto(-20,-10)
+bob.pendown()
+</code></pre>
+
+6.Dans les variables que tu viens de créer, ajoute une couleur et la forme de tortue 
+  (voir feuille mémo en bas de page)
+
+7.Crées une petite animation pour chaque tortue
+  Elles doivent chacune faire 2 tours sur elles-mêmes dans le sens de ton choix
+
+8.Crées ensuite une dernère boucle qui permettra la course aléatoire des tortues
+  Elles doivent chacune avancer de 100 pas
+
 
 ### Aide mémoire turtle :
 
