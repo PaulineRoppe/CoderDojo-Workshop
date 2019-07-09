@@ -6,8 +6,8 @@
 
 0.Tu dois d'abord installer Python3 sur ton PC, pour cela fais :
 
-<pre><code>sudo apt-get install python3.6</code></pre>
-<pre><code>sudo apt-get install idle-python3.6
+<code>sudo apt-get install python3.6</code>
+<code>sudo apt-get install idle-python3.6</code>
 Recherche ensuite "idle" dans les programmes installés sur ton PC et lance-le
 Tu peux commencer l'exercice, tape ligne par ligne et boucle par boucle pour voir l'évolution de ton code dans l'interface graphique de Turtle.
 
