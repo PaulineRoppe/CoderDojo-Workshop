@@ -11,10 +11,16 @@ Par contre, une fois que tu auras fini de toute recopier, tu peux ajouter le cod
 ![Screen du code des boutons A & B](./images/microbit/code-ab.png)
 
 ### Code "toujours" :
+
+Première partie : <br/>
 ![Screen du code des boutons A & B](./images/microbit/code-1.png)
+Seconde partie : <br/>
 ![Screen du code des boutons A & B](./images/microbit/code-2.png)
+Troisième partie : <br/>
 ![Screen du code des boutons A & B](./images/microbit/code-3.png)
+Quatrième partie : <br/>
 ![Screen du code des boutons A & B](./images/microbit/code-4.png)
+Cinquième partie : <br/>
 ![Screen du code des boutons A & B](./images/microbit/code-5.png)
 
 
