@@ -82,5 +82,9 @@ for turn in range(100):
     gary.forward(randint(1,5))
 </code></pre>
 
+### Aide mémoire turtle :
+
+![PDF aide mémoire Turtle](./images/python/turtle.pdf)
+
 ### [Solution de l'exercice](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/soluce-python.md)
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
