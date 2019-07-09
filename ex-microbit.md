@@ -4,7 +4,7 @@
 
 ### Exercice Micro:bit - CrashyBird
 
-Ce n'est pas vraiment un exercice, mais plutôt un tutoriel à recopier sur [Micro:Bit](https://makecode.microbit.org/#editor)
+Ce n'est pas vraiment un exercice, mais plutôt un tutoriel à recopier sur [Micro:Bit](https://makecode.microbit.org/#editor)<br/>
 Par contre, une fois que tu auras fini de toute recopier, tu peux ajouter le code qui permettra de calculer le score (1 point par mur)
 
 ### Code boutons A & B :
