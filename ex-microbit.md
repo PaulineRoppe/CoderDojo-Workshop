@@ -10,8 +10,13 @@ Par contre, une fois que tu auras fini de toute recopier, tu peux ajouter le cod
 ### Code boutons A & B :
 ![Screen du code des boutons A & B](./images/microbit/code-ab.png)
 
-### Code "toujours":
-![Screen du code "toujours"](./images/microbit/code-toujours.png)
+### Code "toujours" :
+![Screen du code des boutons A & B](./images/microbit/code-1.png)
+![Screen du code des boutons A & B](./images/microbit/code-2.png)
+![Screen du code des boutons A & B](./images/microbit/code-3.png)
+![Screen du code des boutons A & B](./images/microbit/code-4.png)
+![Screen du code des boutons A & B](./images/microbit/code-5.png)
+
 
 ### Code "au démarrage":
 ![Screen du code "au démarrage"](./images/microbit/code-audemarrage.png)
