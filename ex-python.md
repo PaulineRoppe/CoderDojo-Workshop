@@ -43,7 +43,7 @@ pendown()
 hideturtle()
 </code></pre>
 
-5.Crées une variable (ceci correspond à une tortue)
+5.Crée une variable (ceci correspond à une tortue)
   Crées 5 tortues avec des noms différents.
   
 <pre><code>  
@@ -56,10 +56,10 @@ bob.pendown()
 6.Dans les variables que tu viens de créer, ajoute une couleur et la forme de tortue 
   (voir feuille mémo en bas de page)
 
-7.Crées une petite animation pour chaque tortue
+7.Crée une petite animation pour chaque tortue
   Elles doivent chacune faire 2 tours sur elles-mêmes dans le sens de ton choix
 
-8.Crées ensuite une dernère boucle qui permettra la course aléatoire des tortues
+8.Crée ensuite une dernère boucle qui permettra la course aléatoire des tortues
   Elles doivent chacune avancer de 100 pas
 
 
