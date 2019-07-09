@@ -4,8 +4,6 @@
 
 ###  Exercice Python - Course de tortues
 
-Python & Turtle, La course de tortues :
-
 1.Importe Turtle dans Python
 
 <pre><code>from turtle import *</code></pre>
