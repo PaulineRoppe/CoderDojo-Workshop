@@ -20,5 +20,4 @@
 
 <img src="./images/scratch/12.jpg" width="430"> <img src="./images/scratch/13.jpg" width="430">
 
-### [Solution de l'exercice](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/soluce-scratch.md)
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
