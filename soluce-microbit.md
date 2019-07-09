@@ -4,6 +4,6 @@
 
 ### Solution Micro:bit - CrashyBird
 
-### Score : [code du score](./images/microbit/code-score.png)
+### Score : ![code du score](./images/microbit/code-score.png)
 
 ### [Retour à la page "technologies"](https://github.com/PaulineRoppe/CoderDojo-Workshop/blob/master/technologies.md)
