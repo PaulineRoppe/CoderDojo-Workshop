@@ -1,6 +1,6 @@
 ![Logo CoderDojo](./images/coderdojo-logo.png)
 
-## Apprends les bases de la programmation
+## Apprend les bases de la programmation
 
 ### Table des matières : 
 
